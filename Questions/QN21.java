@@ -29,6 +29,8 @@ public class QN21 {
     }
 }
 
+// efficient way to solve above problem
+
 /*
  
 
